@@ -1,2 +1,5 @@
 .idea/
 .DS_Store
+miniproject_1/target/
+miniproject_2/target/
+*.class
